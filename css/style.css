@@ -8,11 +8,17 @@ background-color:rgb(3, 179, 3);
 border:2px solid black;
 padding:10px 20px;
 border-radius:5px;
+color: white;
+
 }
 div{
-    padding-left:150px;
+    padding-left:100px;
     padding-top:50px;
 }
 .img{
-    border-radius:5%
+    border-radius:%;
+    padding-left: 50px;
+}
+.wr{
+    text-align: center;
 }
